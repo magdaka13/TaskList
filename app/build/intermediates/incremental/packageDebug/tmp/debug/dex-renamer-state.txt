@@ -1,0 +1,7 @@
+#Fri Feb 21 21:45:21 CET 2020
+base.0=E\:\\MG\\robot_baza\\programs\\TaskList\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\MG\\robot_baza\\programs\\TaskList\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
